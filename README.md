@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ChaeBin%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 # Chae Bin Lee (이채빈)
-### 🏢 Researcher @ ION Solution Co., Ltd.
+### 🏢 Researcher 
+###    Solution Development Dept. @ ION Co., Ltd.
 ### 🎓 B.S. in Mechanical & Aerospace Engineering, Cheongju Univ.
 
 > **Specializing in AI-based Drone Systems, Autonomous Flight, and Robotic Simulations.**
