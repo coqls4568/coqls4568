@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ChaeBin%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38)
 
-# Chae Bin Lee (이채빈)
+# Chae Bin Lee
 ### 🏢 Researcher 
 ###    Solution Development Dept. @ ION Co., Ltd.
 ### 🎓 B.S. in Mechanical & Aerospace Engineering, Cheongju Univ.
